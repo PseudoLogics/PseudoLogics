@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @PsuedoLogics
+- I like to challenge myself with programming projects in every language. Building applications and custom algorithms from the ground up is what I really enjoy. 
+- 👀 I’m interested in ...
+- Graphics programming. Graphical programs. Network programming. App development. Programming. Programming. Programming...
+- 🌱 I’m currently learning ...
+- Have been attempting to build my own mini language/IDE to get a handle on how programming languages are built. You can find the most recent uploads in my repository.
+- 💞️ I’m looking to collaborate on ...
+- Encryption.
+
+<!---
+PsuedoLogics/PsuedoLogics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
