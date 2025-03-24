@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelMathews
 
-Building software in Java, C++, Python, Dart, and HTML.
+Building software in Java, JavaScript, C++, Python, Dart, and HTML.
 
 - Should Read:
 - https://semver.org/
