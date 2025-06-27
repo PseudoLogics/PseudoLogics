@@ -24,7 +24,9 @@ Full stack developer working on creating scale-able well rounded solutions.
 </p>
 
 
-- Should Read:
+Should Read:
+Children Of Time (Adrian Tchaikovsky)
+Dragons Egg (Rober L Forward)
 
 
 <!---
