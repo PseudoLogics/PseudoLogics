@@ -16,10 +16,10 @@ Full stack developer working on creating scale-able well rounded solutions.
 <h2>GitHub Stats</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=psuedologics&hide_rank=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pseudologics&hide_rank=true&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psuedologics&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pseudologics&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 </p>
 
